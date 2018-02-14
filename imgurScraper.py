@@ -1,7 +1,6 @@
 #! python3
 #Imgur scraping Program
 #opens result links to various images after performing a search on Imgur
-#imports
 import requests
 import sys
 import webbrowser
